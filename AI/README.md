@@ -1,10 +1,10 @@
 # Artificial Intelligence
 
-- [Meet Link]()
+- [Meet Link](https://meet.google.com/uqg-hajn-pdi)
 - [Handout]()
 
 ## Lecture Breakdown
 
-| LecNo | Topic | Notes                       |
-| ----- | ----- | --------------------------- |
-| 1     |       | [link](Lec1Aug19/README.md) |
+| LecNo | Date        | Topic | Notes                       |
+| ----- | ----------- | ----- | --------------------------- |
+| 1     | Aug 18 2020 |       | [link](Lec1Aug19/README.md) |

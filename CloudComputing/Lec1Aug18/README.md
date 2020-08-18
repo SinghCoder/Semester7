@@ -1,5 +1,22 @@
 # Lecture 1
 
+- [Lecture 1](#lecture-1)
+  - [Video](#video)
+  - [Books](#books)
+  - [Course webpage](#course-webpage)
+  - [Intro](#intro)
+  - [Evals](#evals)
+  - [What is Cloud](#what-is-cloud)
+  - [Computing](#computing)
+  - [Why Cloud and not own systems](#why-cloud-and-not-own-systems)
+  - [Cloud Services Offering platforms](#cloud-services-offering-platforms)
+  - [Super Clouds](#super-clouds)
+  - [Visualizations](#visualizations)
+
+## Video
+
+[link](https://drive.google.com/file/d/18mLsStEsy511y36JFyEyLVPLsv7Ec8fE/view)
+
 ## Books
 
 ![books](books.png)

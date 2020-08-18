@@ -7,4 +7,4 @@
 
 | LecNo | Topic | Notes                       |
 | ----- | ----- | --------------------------- |
-| 1     |       | [link](Lec1Aug19/README.md) |
+| 1     |       | [link](Lec1Aug18/README.md) |

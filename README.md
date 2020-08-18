@@ -14,3 +14,7 @@
 - [hci](HCI/README.md)
 - [nnfl](NNFL/README.md)
 - [ASM](ASM/README.md)
+
+## Prev Material
+
+- [IR Notes](IR%20Notes%20Last%20Quarter.pdf)

@@ -1,6 +1,6 @@
 # Cloud Computing
 
-- [Meet Link](https://meet.google.com/wpy-iajd-soo)
+- [Meet Link](https://meet.google.com/xij-uoiy-xsw)
 - [Handout](https://drive.google.com/file/d/1ilPumZfEqB932FXzXI-gAbnzCQPQsRXc/view?usp=sharing)
 
 ## Lecture Breakdown

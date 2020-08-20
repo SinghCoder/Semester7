@@ -1,10 +1,15 @@
 # Lecture 1
 
 - [Lecture 1](#lecture-1)
+  - [Video](#video)
   - [Course Objective](#course-objective)
   - [Research papers](#research-papers)
   - [Course Strcture](#course-strcture)
   - [For Next Class](#for-next-class)
+
+## Video
+
+[link](https://web.microsoftstream.com/video/71e5972b-e028-45ea-b9bb-97177f35d70b)
 
 ## Course Objective
 

@@ -1,5 +1,21 @@
 # Lecture 2
 
+- [Lecture 2](#lecture-2)
+  - [Video](#video)
+  - [Summary from last class](#summary-from-last-class)
+  - [Computing as a utility](#computing-as-a-utility)
+  - [Publishing and all for services](#publishing-and-all-for-services)
+  - [Services on the cloud](#services-on-the-cloud)
+  - [What is a service](#what-is-a-service)
+  - [SOA - service Oriented Architecture](#soa---service-oriented-architecture)
+  - [IaaS](#iaas)
+  - [PaaS](#paas)
+  - [SaaS](#saas)
+
+## Video
+
+[link](https://drive.google.com/file/d/1lJkQekpwRGxTAXAMLUnxdoxaKHaCwweX/view)
+
 ## Summary from last class
 
 ![sum](summary.png)

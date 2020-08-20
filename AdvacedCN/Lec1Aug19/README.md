@@ -6,6 +6,7 @@
   - [Research papers](#research-papers)
   - [Course Strcture](#course-strcture)
   - [For Next Class](#for-next-class)
+  - [SLides and Paper link](#slides-and-paper-link)
 
 ## Video
 
@@ -26,3 +27,8 @@
 ## For Next Class
 
 ![next](nextc.png)
+
+## SLides and Paper link
+
+- [slides](slides.pdf)
+- [paper](paper1.pdf)

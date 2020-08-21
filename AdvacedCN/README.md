@@ -7,3 +7,4 @@
 | LecNo | Date       | Topic | Notes                       |
 | ----- | ---------- | ----- | --------------------------- |
 | 1     | 19-08-2020 |       | [link](Lec1Aug19/README.md) |
+| 2     | 21-08-2020 | Introduction contd.. | [link](Lec2Aug21/README.md) |

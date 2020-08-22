@@ -1,5 +1,19 @@
 # Lecture 2
 
+- [Lecture 2](#lecture-2)
+  - [Video](#video)
+  - [Summary](#summary)
+  - [Topics of today](#topics-of-today)
+  - [Why Distributed System](#why-distributed-system)
+  - [Real time distributed system](#real-time-distributed-system)
+  - [Process Models / Distribute computations](#process-models--distribute-computations)
+  - [Network Topologies](#network-topologies)
+  - [Synchronization](#synchronization)
+
+## Video
+
+[link](https://web.microsoftstream.com/video/ff0c657d-f008-42b2-99ae-646b03e08324)
+
 ## Summary
 
 - criteria a distributed system specifies

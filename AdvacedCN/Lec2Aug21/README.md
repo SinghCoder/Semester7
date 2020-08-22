@@ -1,5 +1,25 @@
 # Lecture 2
 
+- [Lecture 2](#lecture-2)
+  - [Video](#video)
+  - [Agenda](#agenda)
+  - [Background](#background)
+  - [Today's Internet](#todays-internet)
+  - [Goals for Internet Architecture when it was designed](#goals-for-internet-architecture-when-it-was-designed)
+    - [Connecting Networks](#connecting-networks)
+    - [Survivability](#survivability)
+      - [Fate Sharing](#fate-sharing)
+    - [Types of service : speed, latency, reliablity](#types-of-service--speed-latency-reliablity)
+      - [Two types of service](#two-types-of-service)
+    - [Standardization: Support Multiple types of networks](#standardization-support-multiple-types-of-networks)
+      - [IP Hourglass](#ip-hourglass)
+  - [Next Class](#next-class)
+  - [Paper and Slides](#paper-and-slides)
+
+## Video
+
+[link](https://web.microsoftstream.com/video/b36adbdd-c451-4557-a514-a4e216453900)
+
 ## Agenda
 
 - Internet Design Philosophy
@@ -105,3 +125,8 @@
 ## Next Class
 
 ![next](next.png)
+
+## Paper and Slides
+
+- [paper - END-TO-END ARGUMENTS IN SYSTEM DESIGN](https://drive.google.com/file/d/1-kKDjBp_LJCr8EGgrdSt4XOX3-pIjo9m/view?usp=sharing)
+- [slides](https://drive.google.com/file/d/1gFMNTjK_NjxZLTYBAVbXAbbNl73Bjtcv/view?usp=sharing)

@@ -137,7 +137,7 @@
   - speech synthesis
   - recognition
   - understanding
-- image recognition and understanfing
+- image recognition and understanding
 - learning?
 - planning and decision-making?
 

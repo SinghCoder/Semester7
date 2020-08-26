@@ -9,6 +9,7 @@
 | 1     | 19-08-2020 |       | [link](Lec1Aug19/README.md) |
 | 2     | 21-08-2020 |       | [link](Lec2Aug21/README.md) |
 | 3     | 24-08-2020 |       | [link](Lec3Aug24/README.md) |
+| 4     | 26-08-2020 |       | [link](Lec4Aug26/README.md) |
 
 ## Project topics ideas
 

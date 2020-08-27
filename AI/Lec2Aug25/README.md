@@ -1,5 +1,21 @@
 # Lecture 2
 
+- [Lecture 2](#lecture-2)
+  - [Video](#video)
+  - [Can we build hardware as complex as the brain](#can-we-build-hardware-as-complex-as-the-brain)
+  - [Must an intelligent System be Foolproof](#must-an-intelligent-system-be-foolproof)
+  - [Some questions](#some-questions)
+  - [Approaches to AI](#approaches-to-ai)
+  - [Planning](#planning)
+  - [Exploration vs Exploitation](#exploration-vs-exploitation)
+  - [Action selection strategies](#action-selection-strategies)
+  - [What is search](#what-is-search)
+  - [Problems solving through search](#problems-solving-through-search)
+
+## Video
+
+[link](https://drive.google.com/file/d/1EkprGKSOoKDyaRBIGbLFnikM1HFL57v5/view?usp=sharing)
+
 ## Can we build hardware as complex as the brain
 
 - We would like AI to have brain of human as well as animal

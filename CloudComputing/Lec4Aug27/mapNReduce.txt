@@ -1,0 +1,12 @@
+map():
+    # assuming n users, and m machines m << n
+    within the machine combine all occurences of a particular user_num by adding the num_followers
+    at the end, u have in a machine, a set of <user_num, num_followers>
+    map each entry to a machine by using say a hash function user_num % m
+
+reduce():
+    for each user_num in list:
+        if user_num is not in output list:
+            add to output list entry <user_num, 0>
+        add num_followers to entry in output list corresponding to user_num
+    in the end u get a list of <user_num, num_followers> where each user_num is distinct in the list

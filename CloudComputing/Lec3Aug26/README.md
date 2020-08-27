@@ -1,5 +1,26 @@
 # Lecture 3
 
+- [Lecture 3](#lecture-3)
+  - [Video](#video)
+  - [What is Cloud computing](#what-is-cloud-computing)
+  - [Economics of Cloud users](#economics-of-cloud-users)
+    - [Costs involved](#costs-involved)
+      - [Consumer point of view](#consumer-point-of-view)
+      - [Provider point of view](#provider-point-of-view)
+  - [Definition of Cloud computing](#definition-of-cloud-computing)
+  - [Attributes of cloud computing](#attributes-of-cloud-computing)
+  - [Cloud Computing](#cloud-computing)
+  - [Programming models in cloud](#programming-models-in-cloud)
+    - [Outline](#outline)
+  - [Cloud applications](#cloud-applications)
+  - [Data streams](#data-streams)
+  - [Data flow mgmt in streaming algos](#data-flow-mgmt-in-streaming-algos)
+    - [Distributed data flows](#distributed-data-flows)
+
+## Video
+
+[link](https://drive.google.com/file/d/12SLz4rmXo0GXa1dgAQwQr_I_EessW_K0/view)
+
 ## What is Cloud computing
 
 - before cloud computing existed, Software as a service was still existing

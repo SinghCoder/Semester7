@@ -5,9 +5,9 @@
 
 ## Lecture Breakdown
 
-| LecNo | Date       | Topic | Notes                       |
-| ----- | ---------- | ----- | --------------------------- |
-| 1     | 18-08-2020 | Intro | [link](Lec1Aug18/README.md) |
-| 2     | 20-08-2020 |       | [link](Lec2Aug20/README.md) |
-| 3     | 26-08-2020 |       | [link](Lec3Aug26/README.md) |
-| 4     | 27-08-2020 |       | [link](Lec4Aug27/README.md) |
+| LecNo | Date       | Topic                                     | Notes                       |
+| ----- | ---------- | ----------------------------------------- | --------------------------- |
+| 1     | 18-08-2020 | Intro                                     | [link](Lec1Aug18/README.md) |
+| 2     | 20-08-2020 | Service in the Context of Cloud Computing | [link](Lec2Aug20/README.md) |
+| 3     | 26-08-2020 | NIST Definition, Economy of Scale         | [link](Lec3Aug26/README.md) |
+| 4     | 27-08-2020 |                                           | [link](Lec4Aug27/README.md) |

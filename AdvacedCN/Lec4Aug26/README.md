@@ -1,6 +1,8 @@
 # Lecture 4
 
 - [Lecture 4](#lecture-4)
+  - [Video](#video)
+  - [Slides](#slides)
   - [Topic](#topic)
   - [Tussle](#tussle)
   - [Requirement in today's communication](#requirement-in-todays-communication)
@@ -14,6 +16,14 @@
   - [Challenges](#challenges)
   - [Summary](#summary)
   - [Next class](#next-class)
+
+## Video
+
+[link](https://web.microsoftstream.com/video/91498769-cb87-4302-8b54-052cd052a480)
+
+## Slides
+
+[link](https://drive.google.com/file/d/1nJHI7xPKWyKauq54T-CT71foKzhx88vs/view?usp=sharing)
 
 ## Topic
 

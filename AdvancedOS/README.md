@@ -15,3 +15,8 @@
 ## Term Paper Topics
 
 ![topics](paperTopics.png)
+
+## Reference Materials
+
+- [Ten Simple Rules for Writing a Literature Review](https://drive.google.com/file/d/1rjm6zl8_mrNVt9DfzNSQi3OUl7KrUNUn/view?usp=sharing)
+- [How_to_Read_Engg_Research_Paper](https://drive.google.com/file/d/1GYskYQVajFqpbP8-yjBMj_8MtuAOjcKd/view?usp=sharing)

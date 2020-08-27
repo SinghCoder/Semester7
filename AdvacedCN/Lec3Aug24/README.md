@@ -1,5 +1,22 @@
 # Lecture 3
 
+- [Lecture 3](#lecture-3)
+  - [Video](#video)
+  - [Slides](#slides)
+  - [Agenda](#agenda)
+  - [Background](#background)
+  - [Network Functionalities : Implementation](#network-functionalities--implementation)
+  - [Secure Transmission of Data](#secure-transmission-of-data)
+  - [NExt Lecture](#next-lecture)
+
+## Video
+
+[link](https://web.microsoftstream.com/video/e9d34d4f-66ba-48c0-aee0-4a6e5d09d90a)
+
+## Slides
+
+[link](https://drive.google.com/file/d/1cwhxhEwI8oh7Ed4P6Xm34VPJ5TG44pPk/view?usp=sharing)
+
 ## Agenda
 
 - End to End Arguement in System Design [paper](https://drive.google.com/file/d/1-kKDjBp_LJCr8EGgrdSt4XOX3-pIjo9m/view?usp=sharing)

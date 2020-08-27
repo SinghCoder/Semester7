@@ -1,5 +1,21 @@
 # Lecture 3
 
+- [Lecture 3](#lecture-3)
+  - [Video](#video)
+  - [OS Design](#os-design)
+  - [UNIX Architecture](#unix-architecture)
+  - [VM Approach](#vm-approach)
+  - [Why Advanced OS](#why-advanced-os)
+  - [Distributed OS](#distributed-os)
+  - [Multi-processor OS](#multi-processor-os)
+  - [Database and Real-time os](#database-and-real-time-os)
+  - [Term Paper Topics](#term-paper-topics)
+  - [Reading Research Paper](#reading-research-paper)
+
+## Video
+
+[link](https://web.microsoftstream.com/video/6182edbd-6ab8-4c37-a23c-86170b001aa5)
+
 ## OS Design
 
 ![os design](osDesign.png)

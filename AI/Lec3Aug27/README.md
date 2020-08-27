@@ -1,5 +1,15 @@
 # Lecture 3
 
+- [Lecture 3](#lecture-3)
+  - [Video](#video)
+  - [Problem Solving through search](#problem-solving-through-search)
+  - [ANT Colony Optimization](#ant-colony-optimization)
+    - [Foraging behavior](#foraging-behavior)
+
+## Video
+
+[link](https://drive.google.com/file/d/1Mbz3wDteSdrW_3BY5Xj-hAO2SowSlbRD/view?usp=sharing)
+
 ## Problem Solving through search
 
 - enumerate all the options and choose the best(greedy)

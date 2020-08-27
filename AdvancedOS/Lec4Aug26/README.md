@@ -1,6 +1,7 @@
 # Lecture 4
 
 - [Lecture 4](#lecture-4)
+  - [Video](#video)
   - [Topic](#topic)
   - [Reference](#reference)
   - [What is a distributed system](#what-is-a-distributed-system)
@@ -14,6 +15,10 @@
     - [Distributed Scheduling](#distributed-scheduling)
     - [Security](#security)
     - [Structuring](#structuring)
+
+## Video
+
+[link](https://web.microsoftstream.com/video/905bfa6d-b5ef-4de4-9df1-6e749a734f8f)
 
 ## Topic
 

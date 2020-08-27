@@ -1,5 +1,10 @@
 # Lecture 1
 
+- [Lecture 1](#lecture-1)
+  - [Topics in course](#topics-in-course)
+  - [Books](#books)
+  - [Distributed system](#distributed-system)
+
 ## Topics in course
 
 - Distributed computing and os

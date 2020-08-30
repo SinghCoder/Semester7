@@ -2,6 +2,7 @@
 
 - [Lecture 2](#lecture-2)
   - [Video](#video)
+  - [Slides](#slides)
   - [Summary from last class](#summary-from-last-class)
   - [Computing as a utility](#computing-as-a-utility)
   - [Publishing and all for services](#publishing-and-all-for-services)
@@ -15,6 +16,10 @@
 ## Video
 
 [link](https://drive.google.com/file/d/1lJkQekpwRGxTAXAMLUnxdoxaKHaCwweX/view)
+
+## Slides
+
+[link](https://drive.google.com/file/d/1lCAARehtW8EiY5g3YZDDJqTuR4h9virD/view?usp=sharing)
 
 ## Summary from last class
 

@@ -2,6 +2,7 @@
 
 - [Lecture 1](#lecture-1)
   - [Video](#video)
+  - [Slides](#slides)
   - [Books](#books)
   - [Course webpage](#course-webpage)
   - [Intro](#intro)
@@ -16,6 +17,10 @@
 ## Video
 
 [link](https://drive.google.com/file/d/18mLsStEsy511y36JFyEyLVPLsv7Ec8fE/view)
+
+## Slides
+
+[link](https://drive.google.com/file/d/1s--41RuUXZv73qtDfmP8ggEzrKP66l9f/view?usp=sharing)
 
 ## Books
 

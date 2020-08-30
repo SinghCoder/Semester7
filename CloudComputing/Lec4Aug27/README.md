@@ -1,5 +1,28 @@
 # Lecture 4
 
+- [Lecture 4](#lecture-4)
+  - [Video](#video)
+  - [Slides](#slides)
+  - [Hadoop](#hadoop)
+    - [Scale Out vs Scale-up](#scale-out-vs-scale-up)
+    - [HDFS](#hdfs)
+    - [Job Tracker](#job-tracker)
+  - [MapReduce Paradigm](#mapreduce-paradigm)
+    - [scheduling](#scheduling)
+    - [Shuffle n sort](#shuffle-n-sort)
+    - [Multiple reduce](#multiple-reduce)
+    - [Compressor](#compressor)
+    - [WordCount example](#wordcount-example)
+  - [Homework problem](#homework-problem)
+
+## Video
+
+[link](https://drive.google.com/file/d/1UVHSKC9YpGHZZFX47Oiskmg2HQp3KMyb/view)
+
+## Slides
+
+[link](https://drive.google.com/file/d/1Hp0HyzvWjMNUpumtlK4LMgO7XfCdagZC/view?usp=sharing)
+
 ## Hadoop
 
 ![hadoop](hadoop.png)

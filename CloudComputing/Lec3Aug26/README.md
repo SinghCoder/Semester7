@@ -2,6 +2,7 @@
 
 - [Lecture 3](#lecture-3)
   - [Video](#video)
+  - [Slides](#slides)
   - [What is Cloud computing](#what-is-cloud-computing)
   - [Economics of Cloud users](#economics-of-cloud-users)
     - [Costs involved](#costs-involved)
@@ -20,6 +21,10 @@
 ## Video
 
 [link](https://drive.google.com/file/d/12SLz4rmXo0GXa1dgAQwQr_I_EessW_K0/view)
+
+## Slides
+
+[link](https://drive.google.com/file/d/1zJk2Phv-hWX0STeaV_e8Q9IMvbe8yc_F/view?usp=sharing)
 
 ## What is Cloud computing
 

@@ -13,3 +13,4 @@
 
 - [lecture 4 video link](https://drive.google.com/file/d/1tCWoz-sWGxWd9StY0vVeoLbx8CeupNZ-/view?usp=sharing)
 - [lec5](https://drive.google.com/file/d/1rkbiNMrluc8Fj5jf9K4ikKoMX24CRklL/view?usp=sharing)
+- [l6](https://drive.google.com/file/d/1JxC8VHeglDefqjSGSGIhXih_9lSLjHFS/view?usp=sharing)

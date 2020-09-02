@@ -12,6 +12,7 @@
 | 3     | 24-08-2020 |       | [link](Lec3Aug24/README.md) |
 | 4     | 26-08-2020 |       | [link](Lec4Aug26/README.md) |
 | 5     | 28-08-2020 |       | [link](Lec5Aug28/README.md) |
+| 6     | 31-08-2020 |       | [link](Lec6Aug31/README.md) |
 
 ## Success Stories
 

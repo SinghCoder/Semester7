@@ -30,6 +30,6 @@
 
 ## SLides and Paper link
 
-- [slides]([slides.pdf](https://drive.google.com/drive/u/0/folders/1dqrBeXa4lNuedpX9oSUdqMXMIjGzq6QG))
+- [slides](https://drive.google.com/drive/u/0/folders/1dqrBeXa4lNuedpX9oSUdqMXMIjGzq6QG)
 - [paper - how to read a research paper](https://drive.google.com/file/d/1rr6XJ0frEqb9MiXdExGqxd5d516rAYfs/view?usp=sharing)
 - [paper - Design philosophy of DARPA Internet Protocols](https://drive.google.com/file/d/1lHP1FDkL3-OvkPlSj8mZXE5zpsF-eOKt/view?usp=sharing)

@@ -4,13 +4,14 @@
 
 ## Lecture Breakdown
 
-| LecNo | Date       | Topic | Notes                       |
-| ----- | ---------- | ----- | --------------------------- |
-| 1     | 19-08-2020 |       | [link](Lec1Aug19/README.md) |
-| 2     | 21-08-2020 |       | [link](Lec2Aug21/README.md) |
-| 3     | 24-08-2020 |       | [link](Lec3Aug24/README.md) |
-| 4     | 26-08-2020 |       | [link](Lec4Aug26/README.md) |
-| 5     | 28-08-2020 |       | [link](Lec5Aug28/README.md) |
+| LecNo | Date       | Topic                                              | Notes                       |
+| ----- | ---------- | -------------------------------------------------- | --------------------------- |
+| 1     | 19-08-2020 | Course Intorduction                                | [link](Lec1Aug19/README.md) |
+| 2     | 21-08-2020 | Internet Design Philosophy                         | [link](Lec2Aug21/README.md) |
+| 3     | 24-08-2020 | End to End argument in System Design               | [link](Lec3Aug24/README.md) |
+| 4     | 26-08-2020 | Tussle in Cyberspace: Defining Tomorrow’s Internet | [link](Lec4Aug26/README.md) |
+| 5     | 28-08-2020 | Future Internet Architecture                       | [link](Lec5Aug28/README.md) |
+| 6     | 31-08-2020 | NDN architecture and its capabilities              | [link](Lec6Aug31/README.md) |
 
 ## Project topics ideas
 

@@ -1,6 +1,7 @@
 # Lecture 5
 
 - [Lecture 5](#lecture-5)
+  - [Video](#video)
   - [Networks for distributed systems](#networks-for-distributed-systems)
     - [Switching technologies](#switching-technologies)
     - [Network types](#network-types)
@@ -8,6 +9,10 @@
       - [LAN](#lan)
   - [Campus Network Design](#campus-network-design)
   - [Networks Comparison](#networks-comparison)
+
+## Video
+
+[link](https://web.microsoftstream.com/video/8a4d681e-8562-4255-885c-826fa9c8e38b)
 
 ## Networks for distributed systems
 

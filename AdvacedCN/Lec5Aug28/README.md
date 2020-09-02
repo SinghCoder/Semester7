@@ -3,6 +3,7 @@
 - [Lecture 5](#lecture-5)
   - [Video](#video)
   - [Agenda](#agenda)
+  - [Slides](#slides)
   - [What is done so far](#what-is-done-so-far)
   - [Problems with current internet](#problems-with-current-internet)
   - [NEw Internet arch](#new-internet-arch)
@@ -10,6 +11,7 @@
   - [Research projects on this](#research-projects-on-this)
   - [Mobility First Architecture](#mobility-first-architecture)
   - [Nebula](#nebula)
+  - [Next LEcture reading](#next-lecture-reading)
 
 ## Video
 
@@ -18,6 +20,10 @@
 ## Agenda
 
 - Future Internet Architecture Design Projects, [Paper link](https://drive.google.com/file/d/1SY5de80LUxTK2sAs72RZCzB89LFYnOr5/view?usp=sharing)
+
+## Slides
+
+[link](https://drive.google.com/file/d/1YGB0tVZ9hiDZ6ro-oed3dX8L4nYnvoz8/view?usp=sharing)
 
 ## What is done so far
 
@@ -57,3 +63,7 @@
 ## Nebula
 
 ![ne](nebula.png)
+
+## Next LEcture reading
+
+- [Named Data Networking (NDN) Project](https://drive.google.com/file/d/1HZeaXdReOL0t3EvRBm57iVUg_hegco65/view?usp=sharing)

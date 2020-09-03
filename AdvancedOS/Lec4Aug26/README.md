@@ -2,6 +2,7 @@
 
 - [Lecture 4](#lecture-4)
   - [Video](#video)
+  - [Slides](#slides)
   - [Topic](#topic)
   - [Reference](#reference)
   - [What is a distributed system](#what-is-a-distributed-system)
@@ -19,6 +20,10 @@
 ## Video
 
 [link](https://web.microsoftstream.com/video/905bfa6d-b5ef-4de4-9df1-6e749a734f8f)
+
+## Slides
+
+[link](https://drive.google.com/file/d/1MXN5y1WxUhBUeiiYLfB5NI1RS8Pq0A9k/view?usp=sharing)
 
 ## Topic
 

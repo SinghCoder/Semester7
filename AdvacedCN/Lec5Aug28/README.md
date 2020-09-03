@@ -11,6 +11,7 @@
   - [Research projects on this](#research-projects-on-this)
   - [Mobility First Architecture](#mobility-first-architecture)
   - [Nebula](#nebula)
+  - [Architectural Principles of NDN](#architectural-principles-of-ndn)
   - [Next LEcture reading](#next-lecture-reading)
 
 ## Video
@@ -63,6 +64,29 @@
 ## Nebula
 
 ![ne](nebula.png)
+
+## Architectural Principles of NDN
+
+![hour](hourglass.png)
+
+- differences between IP and NDN
+  - security is inbuilt in NDN
+- IP is host centric, everything is around host (IP), IP is in center
+- to access a service, u use URL which is a user defined name for IP address
+- in NDN, there is no IP, everything is centered to contents only
+  - my requirement is I need some content
+  - in place of IP, I will have name of content
+  - there is no need to give address, identification to a device
+  - rest things are same
+    - multiple applications
+    - multiple types of connectivity
+- NDN Project
+  - current client server model facing challenges in supporting **secure content oriented** functionality
+    - n/w is transparent and just f/wing the data
+  - moving from end to end packet delivery from Content Centric Model
+  - focusing on WHAT instead of WHERE (content vs address)
+  - allows **content caching** on n/w side to optimize the traffic
+  - content distribution is inherent in architecture
 
 ## Next LEcture reading
 

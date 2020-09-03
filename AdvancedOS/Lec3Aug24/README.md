@@ -2,6 +2,7 @@
 
 - [Lecture 3](#lecture-3)
   - [Video](#video)
+  - [Slides](#slides)
   - [OS Design](#os-design)
   - [UNIX Architecture](#unix-architecture)
   - [VM Approach](#vm-approach)
@@ -15,6 +16,10 @@
 ## Video
 
 [link](https://web.microsoftstream.com/video/6182edbd-6ab8-4c37-a23c-86170b001aa5)
+
+## Slides
+
+[link](https://drive.google.com/file/d/1Kr2H670PCwGQB1NxWEHHzrpcATWjaVAH/view?usp=sharing)
 
 ## OS Design
 

@@ -12,3 +12,4 @@
 | 3     | 27-08-2020  |       | [link](Lec3Aug27/README.md) |
 | 4     | 29-08-2020  |       | [link](Lec4Aug29/README.md) |
 | 5     | 01-09-2020  |       | [link](Lec5Sept1/README.md) |
+| 6     | 03-09-2020  |       | [link](Lec6Sept3/README.md) |

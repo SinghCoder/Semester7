@@ -12,7 +12,8 @@
 | 3     | 26-08-2020 | NIST Definition, Economy of Scale         | [link](Lec3Aug26/README.md) |
 | 4     | 27-08-2020 | Hadoop, Mapreduce                         | [link](Lec4Aug27/README.md) |
 | 5     | 01-09-2020 |                                           | [link](Lec5Sept1/README.md) |
-| 6     | 03-09-2020 |                                           | [link](Lec6Sept3/README.md) |
+| 6     | 03-09-2020 | Spark, Kafka                              | [link](Lec6Sept3/README.md) |
+| 7     | 05-09-2020 | Kafka, Storm, Scaling Web Applications    | [link](Lec7Sept5/README.md) |
 
 ## Some Extra reading material
 

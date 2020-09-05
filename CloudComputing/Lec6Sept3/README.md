@@ -1,5 +1,32 @@
 # Lecture 6
 
+- [Lecture 6](#lecture-6)
+  - [Video](#video)
+  - [Slides](#slides)
+  - [Job Tracker in Hadoop](#job-tracker-in-hadoop)
+  - [Task Tracker](#task-tracker)
+  - [MapReduce and Spark](#mapreduce-and-spark)
+  - [Spark](#spark)
+    - [Transformations](#transformations)
+  - [RDD Lineage](#rdd-lineage)
+  - [Spark Example](#spark-example)
+  - [Cloud Applications](#cloud-applications)
+  - [Real-Time processing applns](#real-time-processing-applns)
+  - [Distributed data flows](#distributed-data-flows)
+  - [The n+1 problem](#the-n1-problem)
+    - [Solution](#solution)
+  - [Apache KAfka](#apache-kafka)
+    - [Design and Implementation](#design-and-implementation)
+    - [Architecture](#architecture)
+
+## Video
+
+[link](https://drive.google.com/file/d/1JTcdidoAtpLcHZagOjBekEV_9xgFTAvV/view)
+
+## Slides
+
+[link](https://drive.google.com/file/d/1r4eyCP8OYQV7v3A-gJ9yca9VyuwkNfwH/view?usp=sharing)
+
 ## Job Tracker in Hadoop
 
 ![jt](jt.png)

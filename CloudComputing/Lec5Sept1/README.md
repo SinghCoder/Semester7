@@ -1,5 +1,20 @@
 # Lecture 5
 
+- [Lecture 5](#lecture-5)
+  - [Video](#video)
+  - [Summary](#summary)
+  - [Scheduling in Hadoop](#scheduling-in-hadoop)
+    - [Map jobs](#map-jobs)
+    - [Reduce jobs](#reduce-jobs)
+  - [Multiple Reducers](#multiple-reducers)
+  - [Shuffle and sort](#shuffle-and-sort)
+  - [Data flow with multiple reduce tasks](#data-flow-with-multiple-reduce-tasks)
+  - [Combiner functions](#combiner-functions)
+  - [MapReduce Example](#mapreduce-example)
+  - [Chaining MapReduce Jobs](#chaining-mapreduce-jobs)
+  - [Joining data from different sources](#joining-data-from-different-sources)
+  - [References](#references)
+
 ## Video
 
 [link)](https://drive.google.com/file/d/1NzLHOlQ3Xn91DFWyaIdHZNfAdJGjEzdz/view)

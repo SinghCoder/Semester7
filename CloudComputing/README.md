@@ -1,5 +1,9 @@
 # Cloud Computing
 
+- [Cloud Computing](#cloud-computing)
+  - [Lecture Breakdown](#lecture-breakdown)
+  - [Some Extra reading material](#some-extra-reading-material)
+
 - [Meet Link](https://meet.google.com/xij-uoiy-xsw)
 - [Handout](https://drive.google.com/file/d/1ilPumZfEqB932FXzXI-gAbnzCQPQsRXc/view?usp=sharing)
 
@@ -14,6 +18,7 @@
 | 5     | 01-09-2020 |                                           | [link](Lec5Sept1/README.md) |
 | 6     | 03-09-2020 | Spark, Kafka                              | [link](Lec6Sept3/README.md) |
 | 7     | 05-09-2020 | Kafka, Storm, Scaling Web Applications    | [link](Lec7Sept5/README.md) |
+| 8     | 08-09-2020 | Microservices, Web services               | [link](Lec8Sept8/README.md) |
 
 ## Some Extra reading material
 

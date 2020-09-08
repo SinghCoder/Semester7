@@ -4,6 +4,7 @@
   - [Agenda](#agenda)
   - [Slides](#slides)
   - [Video](#video)
+  - [Paper](#paper)
   - [How does a network function](#how-does-a-network-function)
   - [Networking planes](#networking-planes)
   - [Switch Hardware](#switch-hardware)
@@ -24,9 +25,15 @@
 
 ## Slides
 
+[link](https://drive.google.com/file/d/1xrZTfku7Y3nv8MvBJDGlRbNLqpoum2Zh/view?usp=sharing)
+
 ## Video
 
 [link](https://web.microsoftstream.com/video/efb8eb5f-ff0f-4208-8892-3726408ce192)
+
+## Paper
+
+[link](https://drive.google.com/file/d/1qZZc0YPAPgInKV0TXTklOecmUvVuqROS/view?usp=sharing)
 
 ## How does a network function
 
@@ -140,3 +147,5 @@
 ![rules](flowrules.png)
 
 ## Next Class
+
+![next](next.png)

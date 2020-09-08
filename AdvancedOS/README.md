@@ -13,6 +13,8 @@
 | 4     | 26-08-2020 | Issues in Distributed Systems                  | [link](Lec4Aug26/README.md) |
 | 5     | 28-08-2020 | Networks for Distributed Systems               | [link](Lec5Aug28/README.md) |
 | 6     | 31-08-2020 | Network Protocols and Communication Primitives | [link](Lec6Aug31/README.md) |
+| 7     | 04-09-2020 | Models for Communication                       | [link](Lec7Sept4/README.md) |
+| 8     | 07-09-2020 |                                                | [link](Lec8Sept8/README.md) |
 
 ## Term Paper Topics
 

@@ -12,6 +12,9 @@
 | 4     | 26-08-2020 | Tussle in Cyberspace: Defining Tomorrow’s Internet | [link](Lec4Aug26/README.md) |
 | 5     | 28-08-2020 | Future Internet Architecture                       | [link](Lec5Aug28/README.md) |
 | 6     | 31-08-2020 | NDN architecture and its capabilities              | [link](Lec6Aug31/README.md) |
+| 7     | 02-09-2020 | Software Defined Networks- A new norm of networking| [link](Lec7Sept2/README.md) |
+| 8     | 04-09-2020 | Openflow : SDN                                     | [link](Lec8Sept4/README.md) |
+| 9     | 07-09-2020 | SDN Controller                                     | [link](Lec9Sept7/README.md) |
 
 ## Project topics ideas
 

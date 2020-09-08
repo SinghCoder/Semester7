@@ -1,5 +1,16 @@
 # Lecture 6
 
+- [Lecture 6](#lecture-6)
+  - [Video](#video)
+  - [Slides](#slides)
+  - [Paper](#paper)
+  - [Agenda](#agenda)
+  - [NDN Architecture](#ndn-architecture)
+  - [Data Names](#data-names)
+  - [Data Centric Security](#data-centric-security)
+  - [Routing and Forwarding](#routing-and-forwarding)
+  - [Resources](#resources)
+
 ## Video
 
 [link](https://web.microsoftstream.com/video/e137f318-1c58-4785-a2dd-a1d92d60a9b4)

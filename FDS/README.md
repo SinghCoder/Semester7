@@ -27,3 +27,19 @@
 - [Superhuman AI for multiplayer poker](https://drive.google.com/file/d/1VjPHqdEQV-_DCb4dWB71E-enOsQSo0yu/view?usp=sharing)
 - [Moneyball — Linear Regression](https://towardsdatascience.com/moneyball-linear-regression-76034259af5e)
 - [Netflix Data Challenge @ Kaggle](https://www.kaggle.com/netflix-inc/netflix-prize-data)
+
+## Slides
+
+| #   | Topic                      | Link                                                                                       |
+| --- | -------------------------- | ------------------------------------------------------------------------------------------ |
+| 1   | Intro                      | [link](https://drive.google.com/file/d/1Qep3akfm2axIXuuiIX4FIaabmJcBysUc/view?usp=sharing) |
+| 2   | Frequentist vs. Bayesian   | [link](https://drive.google.com/file/d/1EGsYrezPeHgts0ZH8lx33bVDCDsAiLm5/view?usp=sharing) |
+| 3   | Probability Distributions  | [link](https://drive.google.com/file/d/1W3CAO-SJWrfzlfcT-Vv2WIs9sCt04HLw/view?usp=sharing) |
+| 4   | PCA & SVD                  | [link](https://drive.google.com/file/d/1rG50mKOgdhcgVcaBZ7SLQCV6DQSN892R/view?usp=sharing) |
+| 5   | SVD Tutorial by Kirk Baker | [link](https://drive.google.com/file/d/176vtxbKl7KEz_LcrlYx41pGZKnA8Q2d9/view?usp=sharing) |
+
+## Problem Sets
+
+| #   | link                                                                                       |
+| --- | ------------------------------------------------------------------------------------------ |
+| 1   | [link](https://drive.google.com/file/d/14T5O5Tqqs7xHG4ILpLcfvdQ3Fr6y2Uc4/view?usp=sharing) |

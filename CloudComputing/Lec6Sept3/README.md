@@ -7,9 +7,10 @@
   - [Task Tracker](#task-tracker)
   - [MapReduce and Spark](#mapreduce-and-spark)
   - [Spark](#spark)
+    - [RDD PErsistence](#rdd-persistence)
     - [Transformations](#transformations)
-  - [RDD Lineage](#rdd-lineage)
-  - [Spark Example](#spark-example)
+    - [RDD Lineage](#rdd-lineage)
+    - [Example](#example)
   - [Cloud Applications](#cloud-applications)
   - [Real-Time processing applns](#real-time-processing-applns)
   - [Distributed data flows](#distributed-data-flows)
@@ -78,6 +79,12 @@
 - basic contains each item as a single value
 - paired is key,value pair
 
+### RDD PErsistence
+
+![rddp](rddp.png)
+
+![rddp2](rddp2.png)
+
 ### Transformations
 
 ![trans](trnas.png)
@@ -95,11 +102,11 @@
 - reduceByKey involves cross communication
   - i.e. if RDD is stored across multiple nodes
 
-## RDD Lineage
+### RDD Lineage
 
 ![lineage](lineage.png)
 
-## Spark Example
+### Example
 
 ![eg](wordcount.png)
 

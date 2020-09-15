@@ -14,7 +14,8 @@
 | 5     | 28-08-2020 | Networks for Distributed Systems               | [link](Lec5Aug28/README.md) |
 | 6     | 31-08-2020 | Network Protocols and Communication Primitives | [link](Lec6Aug31/README.md) |
 | 7     | 04-09-2020 | Models for Communication                       | [link](Lec7Sept4/README.md) |
-| 8     | 07-09-2020 |                                                | [link](Lec8Sept8/README.md) |
+| 8     | 07-09-2020 | Models for Communication (Contd.)              | [link](Lec8Sept8/README.md) |
+| 9     | 09-09-2020 | Introduction to Physical Clocks                | [link](Lec9Sept9/README.md) |
 
 ## Term Paper Topics
 

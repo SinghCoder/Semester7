@@ -5,14 +5,19 @@
 
 ## Lecture Breakdown
 
-| LecNo | Date       | Topic | Notes                       |
-| ----- | ---------- | ----- | --------------------------- |
-| 1     | 19-08-2020 |       | [link](Lec1Aug19/README.md) |
-| 2     | 21-08-2020 |       | [link](Lec2Aug21/README.md) |
-| 3     | 24-08-2020 |       | [link](Lec3Aug24/README.md) |
-| 4     | 26-08-2020 |       | [link](Lec4Aug26/README.md) |
-| 5     | 28-08-2020 |       | [link](Lec5Aug28/README.md) |
-| 6     | 31-08-2020 |       | [link](Lec6Aug31/README.md) |
+| LecNo | Date       | Topic | Notes                         |
+| ----- | ---------- | ----- | ----------------------------- |
+| 1     | 19-08-2020 |       | [link](Lec1Aug19/README.md)   |
+| 2     | 21-08-2020 |       | [link](Lec2Aug21/README.md)   |
+| 3     | 24-08-2020 |       | [link](Lec3Aug24/README.md)   |
+| 4     | 26-08-2020 |       | [link](Lec4Aug26/README.md)   |
+| 5     | 28-08-2020 |       | [link](Lec5Aug28/README.md)   |
+| 6     | 31-08-2020 |       | [link](Lec6Aug31/README.md)   |
+| 7     | 04-09-2020 |       | [link](Lec7Sept4/README.md)   |
+| 8     | 07-09-2020 |       | [link](Lec8Sept7/README.md)   |
+| 9     | 09-09-2020 |       | [link](Lec9Sept9/README.md)   |
+| 10    | 11-09-2020 |       | [link](Lec10Sept11/README.md) |
+| 11    | 14-09-2020 |       | [link](Lec11Sept14/README.md) |
 
 ## Success Stories
 

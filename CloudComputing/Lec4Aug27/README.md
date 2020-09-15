@@ -7,12 +7,15 @@
     - [Scale Out vs Scale-up](#scale-out-vs-scale-up)
     - [HDFS](#hdfs)
     - [Job Tracker](#job-tracker)
+    - [Task Tracker](#task-tracker)
   - [MapReduce Paradigm](#mapreduce-paradigm)
     - [scheduling](#scheduling)
     - [Shuffle n sort](#shuffle-n-sort)
     - [Multiple reduce](#multiple-reduce)
     - [Compressor](#compressor)
     - [WordCount example](#wordcount-example)
+  - [Chaining MaprEduce jobs](#chaining-mapreduce-jobs)
+  - [Joins](#joins)
   - [Homework problem](#homework-problem)
 
 ## Video
@@ -97,7 +100,19 @@
 - we have data and processing
 - ![jt](jobtracker.png)
 
+### Task Tracker
+
+![t1](tt1.png)
+
+![tt2](tt2.png)
+
+![tt3](tt3.png)
+
+![tt4](tt4.png)
+
 ## MapReduce Paradigm
+
+![mrp](mrp1.png)
 
 - example
   - say we have some records of form <IDno, Hostel>
@@ -129,11 +144,19 @@
 
 - we might have multiple map-reduce blocks (in an iterative fashion)
 
+![mrh](mrh.png)
+
 ### scheduling
 
 - split = chunk of data in datanode
 
+![smt](smt.png)
+
+![srj](srjs.png)
+
 ![sched](scheduling.png)
+
+![mrs](mrs.png)
 
 ### Shuffle n sort
 
@@ -153,6 +176,16 @@
 ### WordCount example
 
 ![eg](wordcounteg.png)
+
+![mrex](mrex.png)
+
+## Chaining MaprEduce jobs
+
+![chain](chain.png)
+
+## Joins
+
+![joins](joins.png)
 
 ## Homework problem
 

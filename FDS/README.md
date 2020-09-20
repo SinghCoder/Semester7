@@ -18,6 +18,7 @@
 | 9     | 09-09-2020 |       | [link](Lec9Sept9/README.md)   |
 | 10    | 11-09-2020 |       | [link](Lec10Sept11/README.md) |
 | 11    | 14-09-2020 |       | [link](Lec11Sept14/README.md) |
+| 12    | 18-09-2020 |       | [link](Lec12Sept18/README.md) |
 
 ## Success Stories
 

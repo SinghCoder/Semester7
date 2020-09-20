@@ -19,3 +19,4 @@
 - [lec9](https://drive.google.com/file/d/1Kn-QfIG1AAeLOAIrsQ-skcCRARXFOhAx/view?usp=sharing)
 - [lec10](https://drive.google.com/file/d/1_oFEesMPLoshr_1FeNogSIIAxDCnnhXu/view?usp=sharing)
 - [lec11](https://drive.google.com/file/d/1XVc9hqXlAdSRvJFEcdN7OQb9ICGn6WlK/view?usp=sharing)
+- [lec12](https://drive.google.com/file/d/11Ta7IlazWas08OTDrK0D4kJG3PVxj8Mi/view)

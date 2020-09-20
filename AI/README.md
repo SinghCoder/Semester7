@@ -18,3 +18,4 @@
 | 9     | 10-09-2020  |       | [link](Lec9Sept10/README.md)  |
 | 10    | 10-09-2020  |       | [link](Lec10Sept10/README.md) |
 | 11    | 15-09-2020  |       | [link](Lec11Sept15/README.md) |
+| 12    | 17-09-2020  |       | [link](Lec12Sept17/README.md) |

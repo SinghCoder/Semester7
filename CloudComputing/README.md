@@ -22,8 +22,9 @@
 | 8     | 08-09-2020 | Microservices, Web services                               | [link](Lec8Sept8/README.md)   |
 | 9     | 12-09-2020 | Serverless Architectures, Service Level Agreements (SLAs) | [link](Lec9Sept12/README.md)  |
 | 10    | 15-09-2020 | Clusters                                                  | [link](Lec10Sept15/README.md) |
-| 11    | 16-09-2020 |                                                           | [link](Lec11Sept16/README.md) |
-| 12    | 17-09-2020 |                                                           | [link](Lec12Sept17/README.md) |
+| 11    | 16-09-2020 | Clusters                                                  | [link](Lec11Sept16/README.md) |
+| 12    | 17-09-2020 | Clusters                                                  | [link](Lec12Sept17/README.md) |
+| 13    | 22-09-2020 | Virtualization-Abstraction, Interfaces                    | [link](Lec13Sept22/README.md) |
 
 ## Assignments
 

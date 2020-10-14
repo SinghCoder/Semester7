@@ -26,6 +26,8 @@
 | 12    | 17-09-2020 | Clusters                                                  | [link](Lec12Sept17/README.md) |
 | 13    | 22-09-2020 | Virtualization-Abstraction, Interfaces                    | [link](Lec13Sept22/README.md) |
 | 14    | 23-09-2020 |                                                           | [link](Lec14Sept23/README.md) |
+| 15    | 28-09-2020 |                                                           | [link](Lec15Sept28/README.md) |
+| 16    | 30-09-2020 |                                                           | [link](Lec16Sept30/README.md) |
 
 ## Assignments
 

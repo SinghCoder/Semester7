@@ -1,5 +1,11 @@
 # Lecture 17
 
+- [Lecture 17](#lecture-17)
+  - [Video](#video)
+  - [Further Improvements](#further-improvements)
+  - [Direct Threaded Interpretation](#direct-threaded-interpretation)
+  - [Binary Translation](#binary-translation)
+
 ## Video
 
 [link](https://drive.google.com/file/d/1YaihgVuSWWANfvMWk3SQY7DP-iZVGNnw/view)

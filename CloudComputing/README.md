@@ -29,6 +29,7 @@
 | 15    | 28-09-2020 |                                                           | [link](Lec15Sept28/README.md) |
 | 16    | 30-09-2020 |                                                           | [link](Lec16Sept30/README.md) |
 | 17    | 01-10-2020 |                                                           | [link](Lec17Oct1/README.md)   |
+| 18    | 05-10-2020 |                                                           | [link](Lec18Oct5/README.md)   |
 
 ## Assignments
 

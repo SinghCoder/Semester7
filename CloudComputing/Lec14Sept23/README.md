@@ -1,5 +1,18 @@
 # Lecture 14
 
+- [Lecture 14](#lecture-14)
+  - [Video](#video)
+  - [Computer Architecture](#computer-architecture)
+  - [Process and System VM](#process-and-system-vm)
+  - [Process VM - Applicaitons](#process-vm---applicaitons)
+  - [High Level Virtual Machines](#high-level-virtual-machines)
+  - [Sytstem VM](#sytstem-vm)
+  - [VM Taxonomy](#vm-taxonomy)
+
+## Video
+
+[link](https://drive.google.com/file/d/1iYJm6vOYF9O02kq5t3QptR8o8s_hAVut/view)
+
 ## Computer Architecture
 
 ![v](v1.png)

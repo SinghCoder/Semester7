@@ -1,5 +1,14 @@
 # Lecture 13
 
+- [Lecture 13](#lecture-13)
+  - [Video](#video)
+  - [Slides](#slides)
+  - [Virtualization](#virtualization)
+  - [Virtu and Abstraction](#virtu-and-abstraction)
+  - [Virtul Machine](#virtul-machine)
+  - [VM - Applications](#vm---applications)
+  - [Comparisons b/w OS and VMM](#comparisons-bw-os-and-vmm)
+
 ## Video
 
 [link](https://drive.google.com/file/d/1jQqK6YKn2Ap-ATxrG9JMs3eHZpSIY66K/view)

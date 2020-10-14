@@ -1,5 +1,15 @@
 # Lecture 18
 
+- [Lecture 18](#lecture-18)
+  - [Video](#video)
+  - [Binary translation](#binary-translation)
+  - [Incremental Translation](#incremental-translation)
+  - [Resource Virtualization](#resource-virtualization)
+  - [ISA Virtualizability](#isa-virtualizability)
+  - [VMM Components](#vmm-components)
+  - [Recursive Virtualization](#recursive-virtualization)
+  - [Hybrid Virtualization](#hybrid-virtualization)
+
 ## Video
 
 [link](https://drive.google.com/file/d/1ROeX8rP5ton8V6cuukNRhqkvlj9ULApm/view)

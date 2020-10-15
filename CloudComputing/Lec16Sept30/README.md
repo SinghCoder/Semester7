@@ -1,12 +1,23 @@
 # Lecture 16
 
+- [Lecture 16](#lecture-16)
+  - [Video](#video)
+  - [Efficient VMMs : Popek and Gold Theorem 1](#efficient-vmms--popek-and-gold-theorem-1)
+  - [Hardware Support for Virtualization](#hardware-support-for-virtualization)
+  - [Intel Virtualization Technology Evolution](#intel-virtualization-technology-evolution)
+  - [Emulation](#emulation)
+  - [Definitions](#definitions)
+  - [Ways to carry out emulation](#ways-to-carry-out-emulation)
+  - [Interpreter State](#interpreter-state)
+  - [Indirect threaded Interpretation](#indirect-threaded-interpretation)
+
 ## Video
 
 [link](https://drive.google.com/file/d/1M1sy8J7ri1XHQnDgszKwP-cfHiK7IURj/view)
 
 ## Efficient VMMs : Popek and Gold Theorem 1
 
-![pgt]([pgt.png])
+![pgt](pgt.png)
 
 - emulation directly nahi kar sakte bcz off critical instructions
 - 2 ways to address

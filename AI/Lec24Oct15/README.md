@@ -1,5 +1,13 @@
 # Lecture 24
 
+- [Lecture 24](#lecture-24)
+  - [Video](#video)
+  - [TSP - Genetic Algo contd](#tsp---genetic-algo-contd)
+  - [Issue for GA Practitioners](#issue-for-ga-practitioners)
+  - [Benefits for GAs](#benefits-for-gas)
+  - [When to Use a GA](#when-to-use-a-ga)
+  - [GA Types](#ga-types)
+
 ## Video
 
 [link](https://drive.google.com/file/d/1nceP9WaQKst-LVv0jpQTiT1Klsdnyn64/view)

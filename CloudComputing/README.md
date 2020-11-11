@@ -38,7 +38,9 @@
 | 24    | 26-10-2020 |                                                           | [link](Lec24Oct26/README.md)  |
 | 25    | 28-10-2020 |                                                           | [link](Lec25Oct28/README.md)  |
 | 26    | 30-10-2020 |                                                           | [link](Lec26Oct30/README.md)  |
-| 27    | 02-11-2020 |                                                           | [link](Lec27Nov2/README.md)  |
+| 27    | 02-11-2020 |                                                           | [link](Lec27Nov2/README.md)   |
+| 28    | 04-11-2020 |                                                           | [link](Lec28Nov4/README.md)   |
+| 29    | 10-11-2020 |                                                           | [link](Lec29Nov10/README.md)  |
 
 ## Assignments
 

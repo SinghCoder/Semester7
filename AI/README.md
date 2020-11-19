@@ -30,3 +30,11 @@
 | 22    | 13-10-2020  |       | [link](Lec22Oct13/README.md)  |
 | 23    | 15-10-2020  |       | [link](Lec23Oct15/README.md)  |
 | 24    | 15-10-2020  |       | [link](Lec24Oct15/README.md)  |
+| 25    | 28-10-2020  |       | [link](Lec25Oct28/README.md)  |
+| 26    | 29-10-2020  |       | [link](Lec26Oct29/README.md)  |
+| 27    | 02-11-2020  |       | [link](Lec27Nov02/README.md)  |
+| 28    | 04-11-2020  |       | [link](Lec28Nov04/README.md)  |
+| 29    | 09-11-2020  |       | [link](Lec29Nov09/README.md)  |
+| 30    | 11-11-2020  |       | [link](Lec30Nov11/README.md)  |
+| 31    | 11-11-2020  |       | [link](Lec31Nov11/README.md)  |
+| 32    | 16-11-2020  |       | [link](Lec32Nov16/README.md)  |

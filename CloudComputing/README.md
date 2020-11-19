@@ -41,6 +41,9 @@
 | 27    | 02-11-2020 |                                                           | [link](Lec27Nov2/README.md)   |
 | 28    | 04-11-2020 |                                                           | [link](Lec28Nov4/README.md)   |
 | 29    | 10-11-2020 |                                                           | [link](Lec29Nov10/README.md)  |
+| 30    | 11-11-2020 |                                                           | [link](Lec30Nov11/README.md)  |
+| 31    | 17-11-2020 |                                                           | [link](Lec31Nov17/README.md)  |
+| 32    | 18-11-2020 |                                                           | [link](Lec32Nov18/README.md)  |
 
 ## Assignments
 

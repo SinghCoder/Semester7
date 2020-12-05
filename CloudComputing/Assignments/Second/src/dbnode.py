@@ -13,22 +13,28 @@ import collections
 import os
 import socket
 import json
+from crush import Crush
+from dbapi import DbApi
 
 class DbNode():
 	
 	logger = logging.getLogger('dbnodelogger')
 	logger.setLevel(logging.DEBUG)
-	ch = logging.StreamHandler()
+	ch = logging.FileHandler('../logs/dbnode.log', 'w')
 	formatter = logging.Formatter('[%(asctime)s] %(message)s %(funcName)s:%(lineno)d')
 	ch.setFormatter(formatter)
 	logger.addHandler(ch)
 	
 	constants = Constants()
-	zk = KazooClient(hosts='127.0.0.1:2181')		
+	zk = KazooClient(hosts='127.0.0.1:2181')
+	flask_port = None
+	dbapi = None		
 
 	def __init__(self):
 		super().__init__()
-		self.add_myself_to_zookeeper()
+
+		DbNode.flask_port = DbNode.dbapi.flask_port_no
+
 		DbNode.zk.add_listener(DbNode.connection_listener)
 		DbNode.zk.start()
 		print(DbNode.constants.SERVER_PREFIX + DbNode.constants.MESSAGE_CONNECTED + "with 127.0.0.1:2181")
@@ -42,7 +48,9 @@ class DbNode():
 		hostname = socket.gethostname()
 		ip = socket.gethostbyname(hostname)
 		try:
-			node_data = {'ip' : ip}
+			print(ip)
+			print(DbNode.flask_port)
+			node_data = {'ip' : ip, 'flask_port' : DbNode.flask_port}
 			DbNode.zk.ensure_path("/nodes")
 			DbNode.zk.create("/nodes/node",str.encode(json.dumps(node_data)), ephemeral=True, sequence=True)
 			print('Added myself to /nodes, children list:')
@@ -57,13 +65,19 @@ class DbNode():
 	def connection_listener(state):
 
 		if state == KazooState.LOST:
-			DbNode.logger.debug('session lost')
+			print('session lost')
 		elif state == KazooState.SUSPENDED:
-			DbNode.logger.debug('session suspended')
+			print('session suspended')
 		else:
-			DbNode.logger.debug('running in state {}'.format(state))
+			print('running in state {}'.format(state))
 
 if __name__ == "__main__":
+	DbNode.dbapi = DbApi()
+	DbNode.dbapi.set_flask_port()
+
 	dbnode = DbNode()
+
+	DbNode.dbapi.run_app()
+
 	while True:
 		time.sleep(5)

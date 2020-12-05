@@ -6,23 +6,23 @@
 
 ## Query Format
 
-![query](query.png)
+![query](docs/query.png)
 
 ## Input Data Format
 
-![data](data.png)
+![data](docs/data.png)
 
 ## Approach
 
 - converted given unstructured data into 4 tables named `product`, `similar`, `category`, and `review`, using a script which reads given file line by line and using regular expressions parse it and creates csv files. Read script [here](https://drive.google.com/file/d/1R0LYmtcHUwYjRnrTyAgvD_HthFcm4cHT/view?usp=sharing)
 - Some entries from the tables
-  - Product ![pro](product.png)
-  - Similar ![sim](similar.png)
-  - Category ![cat](category.png)
-  - Review ![review](review.png)
+  - Product ![pro](docs/product.png)
+  - Similar ![sim](docs/similar.png)
+  - Category ![cat](docs/category.png)
+  - Review ![review](docs/review.png)
 - Then for hadoop program
   - SQL query is parsed and a json object is constructed out of it which is accessed by mapper and reducer
-  - For query `select category_name, count(category_code) from category where category_name = 'Books' group by category_name having count(category_code) > 0`, JSON generated is ![json](query_json.png)
+  - For query `select category_name, count(category_code) from category where category_name = 'Books' group by category_name having count(category_code) > 0`, JSON generated is ![json](docs/query_json.png)
   - The mapper uses this JSON to identify which rows satisfy WHERE condition, and it outputs all rows satisfying WHERE conditions as it is with key as the concatenation of values of columns present in group by clause
   - Then reducer calculates aggregate condition and checks if that collection of rows satisfy that aggregate condition or not, if they do, it outputs all columns present in selct clause and aggregate column value, else it ignores it.
 - For Spark program
@@ -36,9 +36,9 @@
 
 - Hadoop
 
-![hout](hadoop1outp.png)
+![hout](docs/hadoop1outp.png)
 
-![hout](hadoop_output_1.png)
+![hout](docs/hadoop_output_1.png)
 
 ```sql
     select category_name, count(category_code) from category where category_name = 'Books' group by category_name having count(category_code) > 0
@@ -46,7 +46,7 @@
 
 - Spark
 
-![spark](sparkout1.png)
+![spark](docs/sparkout1.png)
 
 - Some Sample queries to try
 

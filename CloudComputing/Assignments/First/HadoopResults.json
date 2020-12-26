@@ -1,0 +1,8 @@
+{
+  "Hadoop Execution Time ": ["1463 milliseconds"],
+  "Hadoop Output: ": ["Books_Books,17864445"],
+  "Mapper output": ["<Text, Text> (columns in group by separated by _, row satisfying where condition)"],
+  "Mapper input": ["<LongWritable, Text> (offset, line of file)"],
+  "Reducer input": ["<Text, Text> (columns in group by separated by _, row)"],
+  "Reducer output": ["<Text, Text> (columns in group by separated by _, row containing required columns and satisfying having condition)"]
+}

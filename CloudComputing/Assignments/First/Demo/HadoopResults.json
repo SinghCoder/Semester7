@@ -1,0 +1,8 @@
+{
+  "Hadoop Execution Time ": ["2602 milliseconds"],
+  "Hadoop Output: ": ["0827229534PatternsofPreaching:ASermonSampler0827229534,PatternsofPreaching:ASermonSampler,2.0"],
+  "Mapper output": ["<Text, Text> (columns in group by separated by _, row satisfying where condition)"],
+  "Mapper input": ["<LongWritable, Text> (offset, line of file)"],
+  "Reducer input": ["<Text, Text> (columns in group by separated by _, row)"],
+  "Reducer output": ["<Text, Text> (columns in group by separated by _, row containing required columns and satisfying having condition)"]
+}
